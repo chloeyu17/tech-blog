@@ -102,6 +102,7 @@ npm start
 [Deployed Github Repo] https://github.com/chloeyu17/tech-blog
 
 [Heroku Site] https://fast-earth-60298.herokuapp.com/
+I have been having trouble deploying to heroku.
 
 
 ![ScreenShot](./screenshot/Screenshot.jpg "Main Page")
